@@ -1,0 +1,15 @@
+.container {
+    width: 700px;
+    height: 400px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: inline-flex;
+    border-radius: 20px;
+    overflow: hidden;
+    border: none;
+    outline: none;
+    background-color: white;
+    box-shadow: 10px 4px 6px rgba(0, 0, 0, 0.1), 0 4px 10px rgba(0, 0, 0, 0.1);
+}
